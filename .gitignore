@@ -1,2 +1,6 @@
 zimages
 __pycache__
+annot.json
+logistics.txt
+vids
+*.pth
